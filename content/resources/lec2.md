@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: Military Innovation
 uid: f6c47c20-ead9-5177-f813-7bdc04ce8845

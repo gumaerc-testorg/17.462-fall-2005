@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: 'Submarine Warfare: Pro and Anti'
 uid: 19f7b4aa-c7b4-4b82-512d-d00e915245ce

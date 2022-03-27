@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: 'Introduction: Organization Theory'
 uid: b7e4bbda-9181-9ffa-5290-fc7032d671b8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: Strategic Bombing
 uid: 4bb1e0fe-2916-b31b-57ed-e7e54bb2eea8

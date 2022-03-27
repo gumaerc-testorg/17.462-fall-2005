@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: b6aeea20-061e-7a8a-5635-dbf49e4c40a2
 resourcetype: Document
 title: 'Failed Innovation: Counterinsurgency'
 uid: 96ef4da1-49bb-9318-0692-9c1697718cdf
