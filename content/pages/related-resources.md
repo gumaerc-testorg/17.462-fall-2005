@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on a book suggested as additional reading
+  of the course, including a description of the book and the table of contents.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -11,7 +13,7 @@ Book
 
 Sapolsky, Harvey, Benjamin Friedman, and Brendan Green, eds. _US Military Innovation Since the Cold War: Creation Without Destruction_. New York, NY: Routledge, 2009. ISBN: 9780415777919.
 
-This book brings the course up to date by covering a period unexamined in the existing [readings]({{< baseurl >}}/pages/readings) and [lectures]({{< baseurl >}}/pages/lecture-notes).
+This book brings the course up to date by covering a period unexamined in the existing {{% resource_link 8a122d19-7b80-3330-736d-5ff48a032f86 "readings" %}} and {{% resource_link b6aeea20-061e-7a8a-5635-dbf49e4c40a2 "lectures" %}}.
 
 Description
 -----------
