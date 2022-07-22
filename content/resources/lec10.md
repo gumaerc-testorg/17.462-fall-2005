@@ -6,6 +6,7 @@ file: /courses/17-462-innovation-in-military-organizations-fall-2005/14f3e535971
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'US Military Transformation: Its Causes and Consequences'
 uid: 14f3e535-9719-8e80-1c2d-dc66e485b354
 ---
 Lecture notes on military transformation: the revolution in military affairs (RMA) and beyond.
-

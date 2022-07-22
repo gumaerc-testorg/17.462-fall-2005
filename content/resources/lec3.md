@@ -5,6 +5,7 @@ file: /courses/17-462-innovation-in-military-organizations-fall-2005/4bb1e0fe291
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Strategic Bombing
 uid: 4bb1e0fe-2916-b31b-57ed-e7e54bb2eea8
 ---
 Lecture notes on strategic bombing.
-

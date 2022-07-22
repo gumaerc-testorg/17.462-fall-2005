@@ -5,6 +5,7 @@ file: /courses/17-462-innovation-in-military-organizations-fall-2005/b7e4bbda918
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Introduction: Organization Theory'
 uid: b7e4bbda-9181-9ffa-5290-fc7032d671b8
 ---
 Introductory lecture on military innovation and organization theory.
-
