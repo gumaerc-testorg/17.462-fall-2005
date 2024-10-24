@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Introductory lecture on military innovation and organization theory.
-file: /courses/17-462-innovation-in-military-organizations-fall-2005/b7e4bbda91819ffa5290fc7032d671b8_lec1.pdf
+file: /ol-ocw-studio-app/courses/17-462-innovation-in-military-organizations-fall-2005/b7e4bbda91819ffa5290fc7032d671b8_lec1.pdf
 file_size: 38962
 file_type: application/pdf
 learning_resource_types:
