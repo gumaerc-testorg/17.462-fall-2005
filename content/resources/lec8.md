@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on insurgency and counter-insurgency.
-file: /ol-ocw-studio-app/courses/17-462-innovation-in-military-organizations-fall-2005/96ef4da149bb931806929c1697718cdf_lec8.pdf
+file: /courses/17-462-innovation-in-military-organizations-fall-2005/96ef4da149bb931806929c1697718cdf_lec8.pdf
 file_size: 25447
 file_type: application/pdf
 learning_resource_types:

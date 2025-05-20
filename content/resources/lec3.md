@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on strategic bombing.
-file: /ol-ocw-studio-app/courses/17-462-innovation-in-military-organizations-fall-2005/4bb1e0fe2916b31b57ede7e54bb2eea8_lec3.pdf
+file: /courses/17-462-innovation-in-military-organizations-fall-2005/4bb1e0fe2916b31b57ede7e54bb2eea8_lec3.pdf
 file_size: 57404
 file_type: application/pdf
 learning_resource_types:
