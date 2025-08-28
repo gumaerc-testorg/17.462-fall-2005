@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture notes on cruise and ballistic missiles, federally funded research
   and development centers and similar organizations, how to achieve technologically
   competent government, and the post-cold war.
-file: /courses/17-462-innovation-in-military-organizations-fall-2005/789def1d1ad6117cb6742156a07c7811_lec7.pdf
+file: /ol-ocw-studio-app/courses/17-462-innovation-in-military-organizations-fall-2005/789def1d1ad6117cb6742156a07c7811_lec7.pdf
 file_size: 43599
 file_type: application/pdf
 learning_resource_types:
