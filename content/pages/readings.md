@@ -65,7 +65,7 @@ Sapolsky, Harvey M. "On the Theory of Military Innovation." *Breakthroughs* 9, n
 Strategic airpower
 {{< tdclose >}}{{< tdopen >}}
 
-Frankland, Noble. "The Combined Bomber Offensive: Classical and Revolutionary, Combined and Divided, Planned and Fortuitous." In *Command and Commanders in Modern Warfare: Proceedings of the Second Military History Symposium, U.S. Air Force Academy*. Edited by Lt. Colonel William Geffen. Colorado Springs, CO: United States Air Force Academy, 1971, pp. 253-267. ([PDF - 16.7 MB](https://media.defense.gov/2010/May/25/2001330277/-1/-1/0/AFD-100525-085.pdf))
+Frankland, Noble. "The Combined Bomber Offensive: Classical and Revolutionary, Combined and Divided, Planned and Fortuitous." In *Command and Commanders in Modern Warfare: Proceedings of the Second Military History Symposium, U.S. Air Force Academy*. Edited by Lt. Colonel William Geffen. Colorado Springs, CO: United States Air Force Academy, 1971, pp. 253-267. ({{% resource_link "8fab53c9-fe0a-4249-a60f-af2b4eae1359" "PDF - 16.7 MB" %}})
 
 MacIsaac, David. "Voices from the Central Blue: The Air Power Theorists." In *Makers of Modern Strategy: From Machiavelli to the Nuclear Age*. Princeton, NJ: Princeton University Press, 1986, pp. 624-647. ISBN: 9780691027647.
 
@@ -109,7 +109,7 @@ Griffith, Paddy. "Conclusions." Chapter 11 in *Battle Tactics of the Western Fro
 Tactical airpower
 {{< tdclose >}}{{< tdopen >}}
 
-Boog, Horst. "Higher Command and Leadership in the German Luftwaffe, 1935-1945." In [*Air Power and Warfare: Proceedings of the Eighth Military History Symposium, USAF Academy 1978*](http://www.archive.org/details/AirPowerAndWarfareTheProceedingsOfThe8thMilitaryHistorySymposium). Edited by Colonel Alfred F. Hurley and Major Robert C. Ehrhart. Washington, DC: Office of Air Force History, Headquarters USAF, and United States Air Force Academy, 1979.
+Boog, Horst. "Higher Command and Leadership in the German Luftwaffe, 1935-1945." In {{% resource_link "9e5c9907-e458-4818-8fea-1fa5259049fd" "*Air Power and Warfare: Proceedings of the Eighth Military History Symposium, USAF Academy 1978*" %}}. Edited by Colonel Alfred F. Hurley and Major Robert C. Ehrhart. Washington, DC: Office of Air Force History, Headquarters USAF, and United States Air Force Academy, 1979.
 
 Hallion, Richard P. "The Genesis of Anglo-American Air Support: The British Experience in the Western Desert," and "The Necessary Interlude: Doctrine and the American Experience in the Pacific, Tunisian, and Italian Campaigns." Chapters 12 and 13 in *Strike from the Sky: The History of Battlefield Air Attack, 1911-1945*. Washington, DC: Smithsonian Institution Press, 1989, pp. 149-162 and 163-187. ISBN: 9780874744521.
 
@@ -133,7 +133,7 @@ Beesly, Patrick. "The First Twelve Months: A Lean Time," "Triton to the Rescue,"
 
 Sapolsky, Harvey M. *Science and the Navy*. Princeton, NJ: Princeton University Press, 1990, chapter 2, pp. 9-36. ISBN: 9780691078472.
 
-Cote, Owen R., Jr. ["The Third Battle: Innovation in the US Navy's Silent Cold War Struggle with Soviet Submarines." (PDF - 2.4MB)](https://fas.org/man/dod-101/sys/ship/docs/cold-war-asw.htm) MIT Security Studies Program, March 2000.
+Cote, Owen R., Jr. {{% resource_link "84c2b7eb-197a-4406-b779-c139c4ca490c" "\"The Third Battle: Innovation in the US Navy's Silent Cold War Struggle with Soviet Submarines.\" (PDF - 2.4MB)" %}} MIT Security Studies Program, March 2000.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
@@ -165,7 +165,7 @@ Marquis, Jefferson P. "The Other Warriors: American Social Science and Nation Bu
 
 Krepinevich, Andrew. *The Army and Vietnam*. Baltimore, MD: The Johns Hopkins University Press, 1988. ISBN: 9780801836572.
 
-Hashim, Ahmed S. "[Iraq's Chaos: Why the Insurgency Will Not Go Away](http://www.bostonreview.net/hashim-iraqs-chaos)." *Boston Review*, October/November 2004.
+Hashim, Ahmed S. "{{% resource_link "1440821d-6c4d-4086-8207-7cc0c3ddfe91" "Iraq's Chaos: Why the Insurgency Will Not Go Away" %}}." *Boston Review*, October/November 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
@@ -179,11 +179,11 @@ Posen, Barry R. "Introduction," "Land Power in Modern Times," and "The New Model
 Transformation: The Revolution in Military Affairs (RMA) and beyond
 {{< tdclose >}}{{< tdopen >}}
 
-Thirtle, Michael, Robert Johnson, and John Birkler. "The Historical Context for the Predator ACTD." In *The Predator ACTD: A Case Study for Transition Planning to the Formal Acquisition Process*. RAND Monograph Report MR-899-OSD, 1997, chapter 2, pp. 5-17. ([PDF - 7.8 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
+Thirtle, Michael, Robert Johnson, and John Birkler. "The Historical Context for the Predator ACTD." In *The Predator ACTD: A Case Study for Transition Planning to the Formal Acquisition Process*. RAND Monograph Report MR-899-OSD, 1997, chapter 2, pp. 5-17. ({{% resource_link "9a57cad6-c7ea-48a0-a43e-b6230a757d92" "PDF - 7.8 MB" %}})
 
 Anderegg, C. R. "Mud Beaters." Chapter 12 in *Sierra Hotel: Flying Air Force Fighters in the Decade After Vietnam*. Washington, DC: Air Force History and Museums Program, 2001, pp. 119-142. ISBN: 9781931839044.
 
-U.S. Congress, Office of Technology Assessment. "Summary." Chapter 2 in *New Technology for NATO: Implementing Follow on Forces Attack (FOFA)*. OTA-ISC-309. Washington, DC: U.S. Government Printing Office, June 1987, pp. 15-46. ([PDF - 3.7 MB](https://www.princeton.edu/~ota/disk2/1987/8718/8718.PDF))
+U.S. Congress, Office of Technology Assessment. "Summary." Chapter 2 in *New Technology for NATO: Implementing Follow on Forces Attack (FOFA)*. OTA-ISC-309. Washington, DC: U.S. Government Printing Office, June 1987, pp. 15-46. ({{% resource_link "9a57cad6-c7ea-48a0-a43e-b6230a757d92" "PDF - 3.7 MB" %}})
 
 Cohen, Eliot. "Change and Transformation in Military Affairs." *Journal of Strategic Studies* 27, no. 3 (September 2004): 395-407.
 
